@@ -11,8 +11,8 @@
 
 ### A propósito, aqui estão algumas das minhas estatísticas
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chrix40&show_icons=true&theme=tokyonight" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chrix40&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Oscarsp15&show_icons=true&theme=tokyonight" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscarsp15&theme=tokyonight" width="45%"/>
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrix40&theme=tokyonight&layout=compact" width="45%" />
