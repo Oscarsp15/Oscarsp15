@@ -1,11 +1,13 @@
-# Seja bem vindo ao meu Perfil! 💻  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
+¡Hola! 👋 Soy un apasionado de la tecnología y recién egresado de Ingeniería de Sistemas e Informática 🎓. Me encanta enfrentar desafíos en análisis de datos, desarrollo de software y gestión de proyectos 🚀.
 
-### Sobre mim :
-
-- 🏢 Estagiário na SEDUC do Estado de Rôndonia;
-- 🎓 Estudante de Sistemas de Informação na [Faculdade Sapiens;](https://faculdadesapiens.edu.br/)
-- 💻 Desenvolvedor Web;
-- 👨🏽‍💻 Atualmente focado em aprender C# e Javascript
+🌟 Sobre mí
+Autodidacta y proactivo: Siempre estoy buscando nuevas oportunidades para aprender y aplicar lo aprendido 📚.
+Experiencia independiente: He realizado trabajos de soporte técnico que complementan mi formación y me permiten poner en práctica mis habilidades.
+🛠️ Habilidades Técnicas
+Análisis de Datos: Excel avanzado, SQL, Python, Power BI 📊
+Desarrollo de Software: Java (básico), Diseño web con HTML, CSS, JavaScript y Bootstrap 💻
+Gestión de Proyectos: Metodologías ágiles como Scrum 📋
+Control de Versiones: Git y GitHub 🔧
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
