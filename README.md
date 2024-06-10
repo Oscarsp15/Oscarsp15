@@ -10,10 +10,14 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 Soy egresado de la carrera de Ingeniería de Sistemas e Informática con una profunda pasión por la tecnología y el objetivo de contribuir en proyectos desafiantes en análisis de datos, desarrollo de software o gestión de proyectos, áreas en las que me gustaría desarrollarme profesionalmente.
 * **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
+- 📶 Tengo conococimientos en ...
+  - Python
   - Java
-  - React js
+  - Javascript
+  - SQL | NOSQL
+  - PHP
+  - Shell | batch
 - 🧑‍💻 Profunda pasión por la tecnología.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- ✔ Soy una persona autodidacta y proactiva.<br>
+- 🎯 Mi Objetivo es contribuir en proyectos desafiantes en análisis de datos, desarrollo de software o gestión de proyectos.
 - 📫 puedes contactarme por este medio: <a href="oscar.sirlopu@gmail.com">oscar.sirlopu@gmail.com</a>
