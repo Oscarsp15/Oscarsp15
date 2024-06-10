@@ -13,7 +13,7 @@ Soy egresado de la carrera de Ingeniería de Sistemas e Informática con una pro
 - 🌱 I’m currently learning ...
   - Java
   - React js
-- ✔ Profunda pasión por la tecnología.
+- 🧑‍💻 Profunda pasión por la tecnología.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 puedes contactarme por este medio: <a href="oscar.sirlopu@gmail.com">oscar.sirlopu@gmail.com</a>
