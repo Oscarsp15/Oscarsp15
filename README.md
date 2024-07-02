@@ -9,7 +9,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 Soy Bachiller de la carrera de Ingeniería de Sistemas e Informática con una profunda pasión por la tecnología y el objetivo de contribuir en proyectos desafiantes en análisis de datos, desarrollo de software o gestión de proyectos, áreas en las que me gustaría desarrollarme profesionalmente.
-* **Me encuentro interesado en Analisis de datos, desarrollo de software o gestión de proyectos**
+
 - 📶 Tengo conococimientos en ...
   - Python
   - Java
